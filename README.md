@@ -153,4 +153,3 @@ This project is licensed under the MIT License.
 [1] https://pplx-res.cloudinary.com/image/upload/v1742653332/user_uploads/OooDkQWWqGikyQt/image.jpg
 
 ---
-Answer from Perplexity: pplx.ai/share
